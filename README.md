@@ -5,12 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NabiyaFaruqi005&label=Profile%20views&color=0e75b6&style=flat" alt="NabiyaFaruqi005" /> </p>
 
-- 🔭 I’m currently working on **Photo Editing Web Application**
+
 
 - 🌱 I’m currently learning **Data Analysis**
 - 📝 I regularly post on [https://www.linkedin.com/in/nabiya-faruqi-76b144248/](https://www.linkedin.com/in/nabiya-faruqi-76b144248/)
 
-- 📫 How to reach me **faruqinabiya22@gmail.com**
+- 📫 How to reach me **faruqinabiya05@gmail.com**
 
 - ⚡ Fun fact **I like to read a book**
 
