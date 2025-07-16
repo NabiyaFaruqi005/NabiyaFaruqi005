@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nabiya Faruqi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack web developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Photo Editing Web Application**
 
-- 🌱 I’m currently learning **Backend development**
+- 🌱 I’m currently learning **Data Analysis**
 - 📝 I regularly post on [https://www.linkedin.com/in/nabiya-faruqi-76b144248/](https://www.linkedin.com/in/nabiya-faruqi-76b144248/)
 
 - 📫 How to reach me **faruqinabiya22@gmail.com**
